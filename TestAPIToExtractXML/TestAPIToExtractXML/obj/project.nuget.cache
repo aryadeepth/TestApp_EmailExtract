@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgmgqKjZrmPMXBTwhqDNxwPhViNbDUyYwkLsOlV6pokZAv5P2B3RR8gpEDvum9//PsbMKML9Azn1VPSRLgsF+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\TEST\\TestAPIToExtractXML\\TestAPIToExtractXML\\TestAPIToExtractXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
